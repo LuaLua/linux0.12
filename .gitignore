@@ -30,3 +30,17 @@
 
 # Debug files
 *.dSYM/
+
+
+#bochs file
+bochsout.txt
+
+#temp file
+
+*~
+#bin and image 
+
+*.bin
+*.img
+
+
